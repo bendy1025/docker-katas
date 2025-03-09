@@ -15,3 +15,13 @@ praqmasofus/flaskapp   python3-alpine      f442f4941c53        9 minutes ago    
 praqmasofus/flaskapp   python3             fb4d00f89ef3        10 minutes ago      926MB
 praqmasofus/flaskapp   ubuntu              817bf9d87465        8 days ago          435MB
 ```
+
+
+## Run the script
+Give it execute permissions (if needed) and run it:
+```
+chmod +x build.sh
+```
+```
+./build.sh
+```
